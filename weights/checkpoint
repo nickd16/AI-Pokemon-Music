@@ -1,0 +1,2 @@
+model_checkpoint_path: "1by2048"
+all_model_checkpoint_paths: "1by2048"
