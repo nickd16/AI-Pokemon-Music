@@ -19,5 +19,8 @@ https://soundcloud.com/nick-disalvo-979346533/transformer-gen-iv-original?si=711
 
 
 Additionally, here are some noteable songs the model learned well you may recognize if you have played pokemon before:
+Gen I - S.S. Anne
 https://soundcloud.com/nick-disalvo-979346533/s-s-anne?si=d6dbed5a16c54d7abdceee9dd4421bca&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+
+Gen IV - Route 201
 https://soundcloud.com/nick-disalvo-979346533/route-201?si=8f950f5fe3da4bcd84041d28f42210d4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
