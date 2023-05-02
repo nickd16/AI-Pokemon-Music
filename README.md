@@ -11,12 +11,20 @@ The largest limitation of the network was that most of the pokemon music especia
 RESULTS:
 
 Gen 1 original made by the transformer:
+
+
 https://user-images.githubusercontent.com/108239710/235576536-e93337b4-07a7-4353-aa5b-4fc24f0187e0.mp4
+
+
 https://soundcloud.com/nick-disalvo-979346533/transformer-gen-i-original?si=9195ac6bfbeb4340b25e09e168d753ec&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
 
 Gen IV original made by the transformer:
+
+
 https://user-images.githubusercontent.com/108239710/235576556-2eac1122-1430-4bd3-96f3-d4ce4c7b76c8.mp4
+
+
 https://soundcloud.com/nick-disalvo-979346533/transformer-gen-iv-original?si=7119ab7ab970450aa475851281da07e8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
 
